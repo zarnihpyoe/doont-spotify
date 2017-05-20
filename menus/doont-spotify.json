@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle doont-spotify",
+        "command": "doont-spotify:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "doont-spotify",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "doont-spotify:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
