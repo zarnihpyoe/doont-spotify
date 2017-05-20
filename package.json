@@ -2,7 +2,7 @@
   "name": "doont-spotify",
   "main": "./lib/doont-spotify",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Control spotify just from atom 🎶 🎧",
   "keywords": [
     "spotify",
     "music"
@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "doont-spotify:toggle"
   },
-  "repository": "https://github.com/atom/doont-spotify",
+  "repository": "https://github.com/zarnihpyoe/doont-spotify",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
