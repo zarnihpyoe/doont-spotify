@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "doont-spotify:toggle"
+    "ctrl-alt-k": "doont-spotify:toggle",
+    "ctrl-alt-j": "doont-spotify:previous",
+    "ctrl-alt-l": "doont-spotify:next"
   }
 }

@@ -1,10 +1,7 @@
 {
   "context-menu": {
     "atom-text-editor": [
-      {
-        "label": "Toggle doont-spotify",
-        "command": "doont-spotify:toggle"
-      }
+      
     ]
   },
   "menu": [
@@ -12,11 +9,19 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "doont-spotify",
+          "label": "Doont",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Play/Pause",
               "command": "doont-spotify:toggle"
+            },
+            {
+              "label": "Previous",
+              "command": "doont-spotify:previous"
+            },
+            {
+              "label": "Next",
+              "command": "doont-spotify:next"
             }
           ]
         }
