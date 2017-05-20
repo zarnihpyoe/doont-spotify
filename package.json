@@ -1,7 +1,7 @@
 {
   "name": "doont-spotify",
   "main": "./lib/doont-spotify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Control spotify just from atom 🎶 🎧",
   "keywords": [
     "spotify",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
