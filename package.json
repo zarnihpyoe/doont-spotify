@@ -7,9 +7,6 @@
     "spotify",
     "music"
   ],
-  "activationCommands": {
-    "atom-workspace": "doont-spotify:toggle"
-  },
   "repository": "https://github.com/zarnihpyoe/doont-spotify",
   "license": "MIT",
   "engines": {
